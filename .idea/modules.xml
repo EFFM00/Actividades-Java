@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Alimentar_perritos/Alimentar_perritos.iml" filepath="$PROJECT_DIR$/Alimentar_perritos/Alimentar_perritos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arcade/Arcade.iml" filepath="$PROJECT_DIR$/Arcade/Arcade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase 2/Clase 2.iml" filepath="$PROJECT_DIR$/Clase 2/Clase 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clases/Clases.iml" filepath="$PROJECT_DIR$/Clases/Clases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creando_cliente_clase/Creando_cliente_clase.iml" filepath="$PROJECT_DIR$/Creando_cliente_clase/Creando_cliente_clase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios int/Ejercicios int.iml" filepath="$PROJECT_DIR$/Ejercicios int/Ejercicios int.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios string/Ejercicios string.iml" filepath="$PROJECT_DIR$/Ejercicios string/Ejercicios string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MDT Videojuego/MDT Videojuego.iml" filepath="$PROJECT_DIR$/MDT Videojuego/MDT Videojuego.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiPrimerProyecto/MiPrimerProyecto.iml" filepath="$PROJECT_DIR$/MiPrimerProyecto/MiPrimerProyecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica PG/Practica PG.iml" filepath="$PROJECT_DIR$/Practica PG/Practica PG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica integer/Practica integer.iml" filepath="$PROJECT_DIR$/Practica integer/Practica integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pruebas scanner/Pruebas scanner.iml" filepath="$PROJECT_DIR$/Pruebas scanner/Pruebas scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UML/UML.iml" filepath="$PROJECT_DIR$/UML/UML.iml" />
+    </modules>
+  </component>
+</project>
